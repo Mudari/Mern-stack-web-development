@@ -8,6 +8,8 @@
     padding: 20px;
     background-color: gray;
 }
+//****************************************************************css combinators*******************************************
+
 
 .parent > p{
     color:yellow;
